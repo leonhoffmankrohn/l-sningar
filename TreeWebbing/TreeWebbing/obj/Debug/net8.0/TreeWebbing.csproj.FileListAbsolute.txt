@@ -1,0 +1,14 @@
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\bin\Debug\net8.0\TreeWebbing.exe
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\bin\Debug\net8.0\TreeWebbing.deps.json
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\bin\Debug\net8.0\TreeWebbing.runtimeconfig.json
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\bin\Debug\net8.0\TreeWebbing.dll
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\bin\Debug\net8.0\TreeWebbing.pdb
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.AssemblyInfoInputs.cache
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.AssemblyInfo.cs
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.csproj.CoreCompileInputs.cache
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.dll
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\refint\TreeWebbing.dll
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.pdb
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\TreeWebbing.genruntimeconfig.cache
+C:\Users\Leonh\source\repos\leonhoffmankrohn\l-sningar\TreeWebbing\TreeWebbing\obj\Debug\net8.0\ref\TreeWebbing.dll
